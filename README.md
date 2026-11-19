@@ -32,5 +32,5 @@ remote.
 
 - Website: `TODO(Daniel): site URL`
 - LinkedIn: https://linkedin.com/in/daniel-homitchi-77b39a263
-- Hack The Box: https://app.hackthebox.com/profile/2005927
+- Hack The Box: https://app.hackthebox.com/public/users/2005927
 - Contact: `TODO(Daniel): public contact email`
