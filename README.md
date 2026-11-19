@@ -13,7 +13,7 @@ remote.
 
 ## Certifications
 
-- **CompTIA Security+ (SY0-701)** - earned June 2024, valid through June 2027.
+- **CompTIA Security+ (SY0-601)** - earned June 2024, valid through June 2027.
   (Verification: `TODO(Daniel): Credly URL`.)
 - **Hack The Box Certified Penetration Testing Specialist (CPTS)** - job-role path
   complete, exam pending.
